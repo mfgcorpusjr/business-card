@@ -20,7 +20,7 @@ export default function Section({
 const styles = StyleSheet.create({
   title: {
     fontSize: 18,
-    fontWeight: "bold",
+    fontWeight: "500",
     textAlign: "center",
   },
 });
