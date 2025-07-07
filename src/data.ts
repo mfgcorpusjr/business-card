@@ -4,7 +4,7 @@ export default {
   email: "mcorpus.dev@gmail.com",
   social: {
     github: "https://github.com/mfgcorpusjr",
-    linkedin: "https://www.linkedin.com",
+    linkedin: "https://www.linkedin.com/in/mario-ferdinand-corpus-00a46a372",
     website: "https://www.google.com",
   },
   bio: "Hi! I'm a React Native engineer with a passion for building high-quality mobile applications that deliver seamless user experiences across both iOS and Android platforms. I specialize in writing clean, maintainable code and bringing creative ideas to life through intuitive interfaces and robust functionality.",
